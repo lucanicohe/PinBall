@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Pinball0425-0.1.0";
 const contentToCache = [
-    "Build/pinbsall4.loader.js",
-    "Build/pinbsall4.framework.js.br",
-    "Build/pinbsall4.data.br",
-    "Build/pinbsall4.wasm.br",
+    "Build/pinass5.loader.js",
+    "Build/pinass5.framework.js",
+    "Build/pinass5.data",
+    "Build/pinass5.wasm",
     "TemplateData/style.css"
 
 ];
